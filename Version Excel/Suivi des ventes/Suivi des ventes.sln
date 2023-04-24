@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Suivi des ventes", "Suivi des ventes\Suivi des ventes.rptproj", "{CFE76F33-9196-4CCE-88E6-394587475FCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.Debug|Default.ActiveCfg = Debug
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.Debug|Default.Build.0 = Debug
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.Debug|Default.Deploy.0 = Debug
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.DebugLocal|Default.Build.0 = DebugLocal
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.Release|Default.ActiveCfg = Release
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.Release|Default.Build.0 = Release
+		{CFE76F33-9196-4CCE-88E6-394587475FCD}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D33FBAD9-F16F-4D04-8E63-DFBFA62132AE}
+	EndGlobalSection
+EndGlobal
